@@ -1,0 +1,14 @@
+{
+  "name": "aoc1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "keywords": [
+    "AdventOfCode"
+  ],
+  "author": "Robin Osborne <robin.osborne@gmail.com>",
+  "license": "ISC"
+}
